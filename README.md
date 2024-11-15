@@ -1,8 +1,8 @@
-**<ins>Name</ins>:-** TIRUMALA RATNAKAR
+**<ins>Name</ins>:-** BAYYA DAIVA VENKATA VARA PRASAD
 
 **<ins>COMPANY</ins>:-** CODTECH IT SOLUTION
 
-**<ins>ID</ins>:-** CT12DS2478
+**<ins>ID</ins>:-** CT12DS2487
 
 **<ins>DOMAIN</ins>:-** FRONTEND
 
@@ -10,7 +10,7 @@
 
 **<ins>Mentor</ins>:-** Neel Santhosh Kumar
 
-# <ins>Project Name</ins> :- Interactive Quiz Application
+# <ins>Project Name</ins> :- TO-DO LIST APPLICATION WITH LOCAL STORAGE
 
 ### Overview of the Code
 
